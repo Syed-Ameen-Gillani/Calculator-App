@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF7700</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="almostBlack">#222</color>
+    <color name="red">#BB0202</color>
+    <color name="lightBlack">#FF444444</color>
+
+    <!-- Light mode colors -->
+    <color name="lightPrimaryColor">@color/orange</color>
+    <color name="lightPrimaryVariantColor">@color/almostBlack</color>
+    <color name="lightOnPrimaryColor">@color/white</color>
+
+    <!-- Dark mode colors -->
+    <color name="darkPrimaryColor">@color/almostBlack</color>
+    <color name="darkPrimaryVariantColor">@color/orange</color>
+    <color name="darkOnPrimaryColor">@color/white</color>
+</resources>
